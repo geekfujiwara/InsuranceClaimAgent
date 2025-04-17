@@ -53,10 +53,12 @@ https://github.com/user-attachments/assets/ca218d51-ff3a-43c0-9ce9-f7a1dabe106f
 ![image](https://github.com/user-attachments/assets/3f5eae43-e18e-4266-b593-793614c3c66e)
 
 損傷した車の画像を送付します。例えばこれらの画像を利用してください。
+| 画像1| 画像2 | 画像3 |
+|-----|-----|-----|
+| ![車の損傷画像 (3)](https://github.com/user-attachments/assets/868da423-c7b8-472b-b3da-2dc050f6fdb0) | ![車の損傷画像 (2)](https://github.com/user-attachments/assets/9637c5ec-bfa5-443e-97d1-6de2c8340b52) | ![車の損傷画像 (1)](https://github.com/user-attachments/assets/fb32ac67-9641-46dd-8250-c1d1c45e23f3) |
 
-![車の損傷画像 (3)](https://github.com/user-attachments/assets/868da423-c7b8-472b-b3da-2dc050f6fdb0)
-![車の損傷画像 (2)](https://github.com/user-attachments/assets/9637c5ec-bfa5-443e-97d1-6de2c8340b52)
-![車の損傷画像 (1)](https://github.com/user-attachments/assets/fb32ac67-9641-46dd-8250-c1d1c45e23f3)
+
+
 
 これは車が損傷したというトピックの上で動作しています。
 
