@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/ca218d51-ff3a-43c0-9ce9-f7a1dabe106f
 
 
 ### インポート方法
-[最新のソリューション](https://github.com/geekfujiwara/ProcurementOrderCheck/releases/tag/InsuranceClaimAgent)をダウンロードします。
+[最新のソリューション](https://github.com/geekfujiwara/InsuranceClaimAgent/releases/tag/InsuranceClaimAgent)をダウンロードします。
 
 [Power Apps ポータル](https://make.powerapps.com/)にアクセスします。
 
