@@ -57,13 +57,14 @@ https://github.com/user-attachments/assets/ca218d51-ff3a-43c0-9ce9-f7a1dabe106f
 |-----|-----|-----|
 | ![車の損傷画像 (3)](https://github.com/user-attachments/assets/868da423-c7b8-472b-b3da-2dc050f6fdb0) | ![車の損傷画像 (2)](https://github.com/user-attachments/assets/9637c5ec-bfa5-443e-97d1-6de2c8340b52) | ![車の損傷画像 (1)](https://github.com/user-attachments/assets/fb32ac67-9641-46dd-8250-c1d1c45e23f3) |
 
-
-
-
 これは車が損傷したというトピックの上で動作しています。
 
 ![image](https://github.com/user-attachments/assets/cdca6b26-80d5-4cae-b238-240e984de023)
 
+## 前提条件
+
+* Power Apps Premium 
+* Copilot Studio
 
 ## カスタマイズ
 
@@ -78,7 +79,10 @@ https://github.com/user-attachments/assets/ca218d51-ff3a-43c0-9ce9-f7a1dabe106f
 
 ### 公開
 エージェントはエージェントの作成者の権限で動作するように設定されていますので、外部に公開される際は十分注意してください。
-外部への公開はチャネルから行うことができます。外部チャネルでの[添付ファイルの有効化はBot Framework](https://learn.microsoft.com/ja-jp/azure/bot-service/rest-api/bot-framework-rest-connector-add-media-attachments?view=azure-bot-service-4.0) で行う必要があります。
+外部への公開はチャネルから行うことができます。事前に認証を変更する必要があります。外部チャネルでの[添付ファイルの有効化はBot Framework](https://learn.microsoft.com/ja-jp/azure/bot-service/rest-api/bot-framework-rest-connector-add-media-attachments?view=azure-bot-service-4.0) で行う必要があります。
+
+Microsoft Teams では画像の入力機能がデフォルトで提供されています。そのため公開すればすぐに利用できます。
+
 
 以上
 
