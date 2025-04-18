@@ -8,7 +8,13 @@
 https://github.com/user-attachments/assets/ca218d51-ff3a-43c0-9ce9-f7a1dabe106f
 
 
-### インポート方法
+
+## 前提条件
+以下のライセンスが必要です。
+* Power Apps Premium 
+* Copilot Studio
+
+## インポート方法
 [最新のソリューション](https://github.com/geekfujiwara/InsuranceClaimAgent/releases/tag/InsuranceClaimAgent)をダウンロードします。
 
 [Power Apps ポータル](https://make.powerapps.com/)にアクセスします。
@@ -61,10 +67,6 @@ https://github.com/user-attachments/assets/ca218d51-ff3a-43c0-9ce9-f7a1dabe106f
 
 ![image](https://github.com/user-attachments/assets/cdca6b26-80d5-4cae-b238-240e984de023)
 
-## 前提条件
-
-* Power Apps Premium 
-* Copilot Studio
 
 ## カスタマイズ
 
