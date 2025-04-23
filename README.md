@@ -40,6 +40,12 @@ https://github.com/user-attachments/assets/ca218d51-ff3a-43c0-9ce9-f7a1dabe106f
 
 ![image](https://github.com/user-attachments/assets/c27ccb31-6b8f-4996-8c2f-6a69794c5235)
 
+さらに、エージェントに移り、エージェントの公開を行います。
+
+![image](https://github.com/user-attachments/assets/5e8158b1-def1-4007-80c8-3a0aa3c701aa)
+
+公開が完了したらトリガーされるようになります。
+
 これでソリューションのインポートが完了しました。
 
 ## 利用方法
